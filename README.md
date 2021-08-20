@@ -24,5 +24,6 @@ I've made a Spotify-Clone web app using 3rd party API integration, user authenti
   * 3rd party API to handle all the data about the songs and playback.
  
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6794876852344365056" height="724" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+# LinkedIn Post URL 
+  https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6794876852344365056
 
