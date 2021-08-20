@@ -22,15 +22,7 @@ I've made a Spotify-Clone web app using 3rd party API integration, user authenti
   * used express.js to create an api in order to connect the frontend and the database
 * Spotify-API 
   * 3rd party API to handle all the data about the songs and playback.
+ 
 
-
-
-# Video Preview of the website
-<p align="center">
-  <video width="320" height="240" controls>
-    <source src="https://drive.google.com/file/d/1c7KDNNLNX_TtzpybuD1iqkLdmojddc2U/view?usp=sharing" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 
